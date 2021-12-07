@@ -1,0 +1,99 @@
+#1
+* 1000
+* 1000
+sensor 2: 426 Waktu: 2864469612
+sensor 2: 403 Waktu: 2864470836
+sensor 3: 399 Waktu: 2864471724
+sensor 4: 300 Waktu: 2864505116
+sensor 1: 306 Waktu: 2864539436
+sensor 4: 315 Waktu: 2864573980
+
+#2
+* 1000
+* 1000
+sensor 2: 327 Waktu: 2991942548
+sensor 2: 406 Waktu: 2991943772
+sensor 3: 420 Waktu: 2991944652
+sensor 4: 305 Waktu: 2991978060
+sensor 1: 311 Waktu: 2992012380
+
+#3
+* 1000
+* 1000
+sensor 2: 420 Waktu: 3033422236
+sensor 2: 424 Waktu: 3033423460
+sensor 3: 466 Waktu: 3033456524
+sensor 1: 326 Waktu: 3033493196
+sensor 4: 304 Waktu: 303352538
+
+#4
+* 1000
+* 1000
+sensor 2: 443 Waktu: 3096466140
+sensor 2: 407 Waktu: 3096513068
+sensor 2: 421 Waktu: 3096605244
+sensor 2: 405 Waktu: 3096638740
+sensor 2: 401 Waktu: 3096639964
+sensor 2: 425 Waktu: 3096641196
+sensor 3: 411 Waktu: 3096675068
+sensor 1: 305 Waktu: 3096711740
+sensor 4: 312 Waktu: 3097459428
+
+#5
+* 1000
+* 1000
+sensor 2: 439 Waktu: 3150119236
+sensor 2: 422 Waktu: 3150120460
+sensor 3: 439 Waktu: 3150121796
+sensor 4: 320 Waktu: 3150154740
+sensor 1: 304 Waktu: 3150193988
+sensor 4: 310 Waktu: 3150224500
+
+#6
+* 1000
+* 1000
+sensor 2: 425 Waktu: 3255874380
+sensor 2: 413 Waktu: 3255875604
+sensor 3: 409 Waktu: 3255908660
+sensor 1: 309 Waktu: 3255947140
+sensor 4: 309 Waktu: 325599141
+
+#7
+* 1000
+* 1000
+sensor 2: 444 Waktu: 3358859124
+sensor 2: 408 Waktu: 3358860340
+sensor 3: 424 Waktu: 3358861220
+sensor 4: 311 Waktu: 3358894636
+sensor 1: 315 Waktu: 3358932092
+sensor 4: 312 Waktu: 3358963500
+
+#8
+* 1000
+* 1000
+sensor 2: 419 Waktu: 3150119236
+sensor 2: 422 Waktu: 3150120460
+sensor 3: 439 Waktu: 3150121796
+sensor 4: 320 Waktu: 3150154740
+sensor 1: 304 Waktu: 3150193988
+sensor 4: 310 Waktu: 3150224500
+
+#9
+* 1000
+* 1000
+sensor 2: 415 Waktu: 3255874380
+sensor 2: 433 Waktu: 3255875604
+sensor 3: 429 Waktu: 3255908660
+sensor 1: 301 Waktu: 3255947140
+sensor 4: 321 Waktu: 325599141
+
+#10
+* 1000
+* 1000
+sensor 2: 424 Waktu: 3358859124
+sensor 2: 408 Waktu: 3358860340
+sensor 3: 424 Waktu: 3358861220
+sensor 4: 311 Waktu: 3358894636
+sensor 1: 305 Waktu: 3358932092
+sensor 4: 322 Waktu: 3358963500
+

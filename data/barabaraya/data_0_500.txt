@@ -1,0 +1,107 @@
+#1
+* 0
+* 500
+sensor 1: 530 Waktu: 1126538876
+sensor 1: 534 Waktu: 1126540108
+sensor 2: 362 Waktu: 1126574068
+sensor 4: 402 Waktu: 1126607596
+sensor 3: 357 Waktu: 1126644724
+
+#2
+* 0
+* 500
+sensor 1: 531 Waktu: 1169320108
+sensor 1: 534 Waktu: 1169321324
+sensor 4: 360 Waktu: 1169358204
+sensor 1: 410 Waktu: 1169388724
+sensor 3: 357 Waktu: 1169423148
+sensor 1: 364 Waktu: 1169517500
+sensor 1: 415 Waktu: 1169518732
+sensor 2: 354 Waktu: 1169571692
+
+#3
+* 0
+* 500
+sensor 1: 537 Waktu: 1320885756
+sensor 1: 534 Waktu: 1320888196
+sensor 2: 404 Waktu: 1320921252
+sensor 4: 470 Waktu: 1320955684
+sensor 4: 350 Waktu: 1320993820
+sensor 3: 352 Waktu: 1321039684
+
+#4
+* 0
+* 500
+sensor 1: 515 Waktu: 1441128244
+sensor 1: 526 Waktu: 1441129468
+sensor 2: 350 Waktu: 1441162516
+sensor 3: 352 Waktu: 1441197284
+sensor 3: 356 Waktu: 1441471172
+sensor 4: 350 Waktu: 1441561236
+
+#5
+* 0
+* 500
+sensor 1: 527 Waktu: 1478818516
+sensor 1: 429 Waktu: 1478819748
+sensor 4: 385 Waktu: 1478857076
+sensor 1: 401 Waktu: 1478887132
+sensor 3: 345 Waktu: 1478921564
+sensor 1: 354 Waktu: 1479000260
+sensor 1: 406 Waktu: 1479001484
+sensor 2: 355 Waktu: 1479056260
+sensor 2: 374 Waktu: 1479059068
+
+#6
+* 0
+* 500
+sensor 1: 517 Waktu: 1736723052
+sensor 1: 522 Waktu: 1736724276
+sensor 2: 376 Waktu: 1736762724
+sensor 4: 355 Waktu: 1736791772
+sensor 3: 337 Waktu: 1736826212
+
+#7
+* 0
+* 500
+sensor 1: 456 Waktu: 1819594884
+sensor 1: 526 Waktu: 1819596100
+sensor 1: 519 Waktu: 1819597324
+sensor 2: 393 Waktu: 1819630388
+sensor 3: 315 Waktu: 1819664708
+sensor 2: 350 Waktu: 1819938964
+sensor 4: 353 Waktu: 1819942644
+sensor 4: 357 Waktu: 1819943876
+
+#8
+* 0
+* 500
+sensor 1: 501 Waktu: 1877763796
+sensor 1: 537 Waktu: 1877765020
+sensor 1: 522 Waktu: 1877766244
+sensor 4: 376 Waktu: 1877799532
+sensor 3: 363 Waktu: 1877833852
+sensor 2: 351 Waktu: 1877868172
+
+#9
+* 0
+* 500
+sensor 1: 484 Waktu: 1946955484
+sensor 1: 524 Waktu: 1946956708
+sensor 1: 500 Waktu: 1946957932
+sensor 4: 415 Waktu: 1946991212
+sensor 2: 426 Waktu: 1947025420
+sensor 3: 355 Waktu: 1947059628
+
+#10
+* 0
+* 500
+sensor 1: 475 Waktu: 1991035100
+sensor 1: 486 Waktu: 1991036316
+sensor 1: 537 Waktu: 1991037548
+sensor 2: 366 Waktu: 1991072396
+sensor 3: 313 Waktu: 1991104924
+sensor 1: 353 Waktu: 1991553308
+sensor 4: 370 Waktu: 1991578172
+sensor 4: 407 Waktu: 1991579404
+
